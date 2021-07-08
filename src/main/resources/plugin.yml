@@ -1,0 +1,9 @@
+name: AxolotlOP
+version: ${project.version}
+main: me.swipez.axolotlop.AxolotlOP
+api-version: 1.17
+authors: [ notnotnotswipez ]
+commands:
+  axolotlop:
+    usage: /axolotlop
+    description: Toggles the Axolotl OP challenge
